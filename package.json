@@ -10,9 +10,9 @@
     "postinstall": "prisma generate"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.23.2",
+    "@clerk/nextjs": "^4.31.7",
     "@hookform/resolvers": "^3.2.0",
-    "@prisma/client": "^5.1.1",
+    "@prisma/client": "^6.4.1",
     "@radix-ui/react-avatar": "^1.0.3",
     "@radix-ui/react-dialog": "^1.0.4",
     "@radix-ui/react-label": "^2.0.2",
@@ -50,6 +50,6 @@
     "zustand": "^4.4.1"
   },
   "devDependencies": {
-    "prisma": "^5.1.1"
+    "prisma": "^6.4.1"
   }
 }
